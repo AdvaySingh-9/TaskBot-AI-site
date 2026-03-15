@@ -282,3 +282,19 @@ footer{
 .details a:hover {
   color: #910f7e;
 }
+
+#footer_link {
+  position: static;
+  display: inline;
+  padding: 0;
+  color: white;
+  text-decoration: none;
+  text-transform: none;
+  font-weight: normal;
+  transition: none;
+
+}
+
+#footer_link:hover{
+  background-color: transparent
+}
